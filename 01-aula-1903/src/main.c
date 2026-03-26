@@ -31,6 +31,7 @@ int isPrimo (int n){
     return 1;
 }
 
+// aula 01, dia 19 de março de 2026/1, introdução ao C
 int main() {
     int first, second;
 
